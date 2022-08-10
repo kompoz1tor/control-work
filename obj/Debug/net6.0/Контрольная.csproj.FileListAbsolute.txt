@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\обучение GeekBrains\Контрольная\bin\Debug\net6.0\Контрольная.exe
+C:\Users\user\Desktop\обучение GeekBrains\Контрольная\bin\Debug\net6.0\Контрольная.deps.json
+C:\Users\user\Desktop\обучение GeekBrains\Контрольная\bin\Debug\net6.0\Контрольная.runtimeconfig.json
+C:\Users\user\Desktop\обучение GeekBrains\Контрольная\bin\Debug\net6.0\Контрольная.dll
+C:\Users\user\Desktop\обучение GeekBrains\Контрольная\bin\Debug\net6.0\Контрольная.pdb
+C:\Users\user\Desktop\обучение GeekBrains\Контрольная\obj\Debug\net6.0\Контрольная.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\обучение GeekBrains\Контрольная\obj\Debug\net6.0\Контрольная.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\обучение GeekBrains\Контрольная\obj\Debug\net6.0\Контрольная.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\обучение GeekBrains\Контрольная\obj\Debug\net6.0\Контрольная.AssemblyInfo.cs
+C:\Users\user\Desktop\обучение GeekBrains\Контрольная\obj\Debug\net6.0\Контрольная.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\обучение GeekBrains\Контрольная\obj\Debug\net6.0\Контрольная.dll
+C:\Users\user\Desktop\обучение GeekBrains\Контрольная\obj\Debug\net6.0\refint\Контрольная.dll
+C:\Users\user\Desktop\обучение GeekBrains\Контрольная\obj\Debug\net6.0\Контрольная.pdb
+C:\Users\user\Desktop\обучение GeekBrains\Контрольная\obj\Debug\net6.0\Контрольная.genruntimeconfig.cache
+C:\Users\user\Desktop\обучение GeekBrains\Контрольная\obj\Debug\net6.0\ref\Контрольная.dll
