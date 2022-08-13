@@ -22,8 +22,6 @@ Console.WriteLine("Искомый массив данных:");
 PrintArray(secondArray);
 Console.WriteLine("-------------------------------------------------------------------");
 
-/* FillFirstArray - Метод, который заполняет исходный массив данных, ввод с клавиатуры и заодно проверяющий, удовлетворяет ли вводимый элемент массива нашему словию (array[i].Lenght <= 3)
-Если элемент массива удовлетворяет условию, то длина искомого массива увеличивается на 1*/
 string[] FillFirstArray(string[] array, ref int maxIndexArray)
     {
         Console.WriteLine();
@@ -41,7 +39,7 @@ string[] FillFirstArray(string[] array, ref int maxIndexArray)
         Console.WriteLine();
         return array;
     }
-/* FillCurrentArray - Метод, перебирает элементы исходного массива, и если он (элемент) меньше или равен 3, то его значение присвается в элемент искомого массива*/
+
 string[] FillCurrentArray(string[] firstArray, string[] secondArray)
     {
         int j = 0;
@@ -55,7 +53,7 @@ string[] FillCurrentArray(string[] firstArray, string[] secondArray)
         }
         return secondArray;
     }
-/* PrintArray - Универсальный метод вывода в консоль одномерного массива*/
+
 static void PrintArray(string[] array)
     {
         for (int i = 0; i < array.Length; i ++)
@@ -64,4 +62,3 @@ static void PrintArray(string[] array)
         }
         Console.WriteLine();
     }
-/************************************************************************************/
